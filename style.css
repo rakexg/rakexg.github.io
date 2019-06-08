@@ -156,14 +156,14 @@ body a:hover
 }
 
 .section-num span
-{    
+{
     margin-left: 10px;
     color: #55B286;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 70px;
     line-height: 100%;
-    letter-spacing: -5px;
+    /* letter-spacing: -5px; */
 }
 
 .section-title-holder h2
@@ -1233,8 +1233,8 @@ footer
 
     .section-num span 
     {
-        margin-left: 10px;    
-        font-size: 70px;
+        margin-left: 10px;
+        font-size: 30px;
     }
 
     .section-title-holder h2
