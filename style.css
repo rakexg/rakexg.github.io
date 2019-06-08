@@ -178,7 +178,7 @@ body a:hover
     color: white;
     margin-left: 10px;
     /* text-transform: uppercase; */
-    letter-spacing: -3px;
+    letter-spacing: -1px;
     padding: 0;
 }
 
@@ -279,7 +279,7 @@ h1.big-title
     font-size: 56px;
     font-weight: 700;
     line-height: 100%;
-    padding-top: 300px;
+    padding-top: 200px;
     color: #fff;
     letter-spacing: -1px;
     width: 95%;
